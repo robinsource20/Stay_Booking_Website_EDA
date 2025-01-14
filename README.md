@@ -4,7 +4,7 @@ Identify the customer preferences and trends for a stay booking website
 Problem statement: To deal with declining revenue
 
 Methodology
--The raw data is in the form of an excel sheet
+-The raw data is in the form of an excel sheet\n
 -It is first cleaned using python
 -The cleaned data is used in Tableau to create visualisations and carry out EDA
 
